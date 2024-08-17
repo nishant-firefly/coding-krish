@@ -42,7 +42,7 @@ git branch
 git checkout -b coding_level_1
 git branch
 
---> Do you coding in the files in Visual Studio Code <---
+--> Do you coding in the files in folder ./programs/level_1  Visual Studio Code <---
 git add .
 git commit -m "Add feature or fix description"
 git push origin coding_level_1
