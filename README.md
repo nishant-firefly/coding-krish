@@ -1,4 +1,6 @@
-# Krish Coding## Getting Started
+# Krish Coding
+
+## Getting Started
 
 This guide will help you clone the repository, create a new branch, make changes, and push your code to your own branch named `coding_level_1`.
 
@@ -24,7 +26,7 @@ Go to GitHub, navigate to Settings > SSH and GPG keys, and click New SSH key.
 Paste your key and save.
 
 ```
-#### Clone you repository :
+#### Clone repository :
 
 ```
 git clone git@github.com:nishant-firefly/coding-krish.git
